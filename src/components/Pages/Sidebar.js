@@ -1,12 +1,12 @@
 
 import React, { useState } from "react";
 import "./Sidebar.css"; 
-import dashboardIcon from "../assets/dashboard.png";
-import learnIcon from "../assets/learn.png";
-import forumsIcon from "../assets/forums.png";
-import upskillIcon from "../assets/upskill.png";
-import contestIcon from "../assets/contest.png";
-import leaderboardIcon from "../assets/leaderboard.png";
+import dashboardIcon from "../../assets/dashboard.png";
+import learnIcon from "../../assets/learn.png";
+import forumsIcon from "../../assets/forums.png";
+import upskillIcon from "../../assets/upskill.png";
+import contestIcon from "../../assets/contest.png";
+import leaderboardIcon from "../../assets/leaderboard.png";
 
 const Sidebar = () => {
   const [activeItem, setActiveItem] = useState("Upskill");

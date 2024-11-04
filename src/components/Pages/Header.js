@@ -1,6 +1,6 @@
 import React from 'react';
-import menuIcon from '../assets/menu-icon.png';
-import notificationIcon from '../assets/notification-icon.png';
+import menuIcon from '../../assets/menu-icon.png';
+import notificationIcon from '../../assets/notification-icon.png';
 import './Header.css';
 
 const Header = () => {
