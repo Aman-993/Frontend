@@ -1,0 +1,96 @@
+.resource {
+    border: 1px solid #A4E6FF;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    overflow: hidden;
+  }
+  
+  .resource-header {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 15px 0px 15px;
+    cursor: pointer;
+    align-items: center;
+  }
+
+  .res-header-right{
+    display: flex;
+  justify-content: space-between;
+  gap: 5px;
+  align-items: center;
+  }
+  .resource-info {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .part-label {
+    font-weight: bold;
+    color: #888;
+  }
+  
+  .resource-title {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .resource-meta {
+    display: flex;
+    gap: 20px;
+    font-size: 0.9em;
+    color: #666;
+    
+  }
+  
+  .meta-icon {
+    width: 16px;
+    height: 16px;
+    margin-right: 5px;
+    
+  }
+  
+  .completion {
+    color: #666;
+    font-size: 0.85em;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+  }
+  .container-comp-perc
+  {
+    display: flex;
+    justify-content: flex-end;
+    padding: 5px 15px;
+  }
+  .progress-bar {
+    height: 8px;
+    background-color: #e0e0e0;
+    border-end-end-radius: 4px;
+    overflow: hidden;
+    margin-top: 4px;
+  }
+  
+  .progress-bar-fill {
+    height: 100%;
+    background: #172B4DD9;
+    transition: width 0.3s ease;
+  }
+
+  .comp-perc{
+    background: #EFF5FF;
+    border: 1px solid #99E4FF;
+   border-radius: 5px;
+    padding: 4px;
+    font-size: 12px;
+  
+  }
+  .right-resource{
+    display: flex;
+    gap: 20px;
+  }
+
+  .toggle-icon img {
+    width: 20px;
+    height: 16px;
+  }
+  

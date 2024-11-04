@@ -1,0 +1,40 @@
+.resource-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  align-items: center;
+    border: none; 
+    padding-bottom: 20px; 
+    border: 1px solid; 
+    border-image-source: linear-gradient(90deg, rgba(23, 43, 77, 0) 0%, #172B4D 50%, rgba(5, 68, 94, 0) 100%);
+    border-image-slice: 1; 
+}
+
+
+.resource-icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+
+.resource-title {
+  flex: 1;
+  font-size: 1.2em;
+  color: #333;
+}
+
+.resource-time {
+  color: #666;
+  font-size: 0.9em;
+  display: flex;
+  justify-content: space-between;
+  gap: 5px;
+  align-items: center;
+  
+}
+.timer-icon{
+  color: #17384D;
+  width: 15px;
+  height: 15px;
+  
+}

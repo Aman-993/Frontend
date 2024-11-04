@@ -1,0 +1,29 @@
+.page {
+    flex: 1;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #A4E6FF;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    border-bottom: none;
+    margin: 20px;
+    height: 70vh;
+  }
+  
+  .page-content {
+    display: flex;
+    margin-top: 20px;
+  }
+  .page-sidebar {
+    flex-shrink: 0;
+  }
+  
+  .resource-list {
+    flex: 1;
+    overflow-y: auto;
+  }
+  
+  .page-main{
+    display: flex;  
+  }
