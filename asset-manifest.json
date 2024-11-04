@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AZtask/static/css/main.a86992e0.css",
-    "main.js": "/AZtask/static/js/main.7bcc0e2b.js",
-    "static/js/453.8ab44547.chunk.js": "/AZtask/static/js/453.8ab44547.chunk.js",
-    "index.html": "/AZtask/index.html",
-    "main.a86992e0.css.map": "/AZtask/static/css/main.a86992e0.css.map",
-    "main.7bcc0e2b.js.map": "/AZtask/static/js/main.7bcc0e2b.js.map",
-    "453.8ab44547.chunk.js.map": "/AZtask/static/js/453.8ab44547.chunk.js.map"
+    "main.css": "/Frontend/static/css/main.a86992e0.css",
+    "main.js": "/Frontend/static/js/main.c6d3a8ee.js",
+    "static/js/453.8ab44547.chunk.js": "/Frontend/static/js/453.8ab44547.chunk.js",
+    "index.html": "/Frontend/index.html",
+    "main.a86992e0.css.map": "/Frontend/static/css/main.a86992e0.css.map",
+    "main.c6d3a8ee.js.map": "/Frontend/static/js/main.c6d3a8ee.js.map",
+    "453.8ab44547.chunk.js.map": "/Frontend/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a86992e0.css",
-    "static/js/main.7bcc0e2b.js"
+    "static/js/main.c6d3a8ee.js"
   ]
 }
