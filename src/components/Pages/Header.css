@@ -18,7 +18,6 @@
     width: 22.4px;
     height: 25.6px;
     gap: 0px;
-    opacity: 0px;
   }
 
   .notification-box{
@@ -26,7 +25,6 @@
     padding: 8px 10px 6px 10px;
     gap: 20px;
     border-radius: 6px;
-    opacity: 0px;
     background: #E7F8FF;
     cursor: pointer;
   }
@@ -43,19 +41,13 @@
     align-items: center;
     width: 140px;
     height: 63px;
-    top: 58px;
-    left: 1716px;
     gap: 20px;
-    opacity: 0px;
   }
   
   .profile-circle {
     width: 63px;
     height: 63px;
-    top: 58px;
-    left: 1793px;
     gap: 0px;
-    opacity: 0px;
     cursor: pointer;
     background-color: #d3d3d3;
     border-radius: 50%;
